@@ -1,0 +1,19 @@
+@import "~bootstrap/scss/bootstrap";
+
+.navbar {
+  padding-left: 1rem;
+}
+
+.navbar-toggler {
+  margin-right: 1rem;
+}
+
+.note {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+small {
+  padding: 0.2rem;
+}
